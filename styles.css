@@ -1,2 +1,36 @@
 /* Move your styles here when you're ready to clean up your HTML file */
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
+body {
+  margin: auto;
+  max-width: 800px;
+}
+h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: 200%;
+}
+h2 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-weight: 200;
+  line-height: 1.5;
+  font-size: 150%;
+  color: indianred;
+}
+p {
+  text-align: left;
+  font-family: Arial, sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: 100%;
+  opacity: 0.7;
+}
+ul, ol, li {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: indianred;
+}
