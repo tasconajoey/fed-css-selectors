@@ -41,3 +41,6 @@ h2:last-child {
 #first-header {
   font-size: 300%;
 }
+a:visited {
+  color: #662e2e;
+}
